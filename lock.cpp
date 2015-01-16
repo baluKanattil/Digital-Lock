@@ -1,3 +1,5 @@
+//Arduino Digital Lock
+
 #include <Keypad.h>
 #include <LiquidCrystal.h> //LCD display
 #include <Stepper.h> //LOCK Motor(unipolar stepper motor)
